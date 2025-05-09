@@ -17,7 +17,7 @@ body{
           #FFA8B9 95%
         );
         background-size: 200% 200%;
-        animation: gradientMove 2s ease-in-out infinite;
+        animation: gradientMove 5s ease-in-out infinite;
         mask: url('logo_tia.svg') center/contain no-repeat;
         -webkit-mask: url('logo_tia.svg') center/contain no-repeat;
       }
